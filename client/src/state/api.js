@@ -4,7 +4,7 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 // api slice manages all api centerally
 //Redux Toolkit automatically generates hooks for each of your endpoints.
 export const api = createApi( {
-    baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:5001" }),
+    baseQuery: fetchBaseQuery({ baseUrl: "https://redux-dash.onrender.com/managment/" }),
     reducerPath: "adminApi",
     tagTypes : ["User", "Products", "Customers", "Transactions", "Geography", "Sales", "Admin", "Performance", "DashBoard"],
     // data types that the api will work with
