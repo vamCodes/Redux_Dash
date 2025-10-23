@@ -4,6 +4,16 @@ Welcome to the VamDash2.0, a full‑stack web application designed to visualize 
 
 ---
 
+
+## 🖼️ Screenshot
+Here’s a peek at the dashboard interface 👇  
+
+![Dashboard Screenshot](./screenshots/dash.png)
+
+
+
+---
+
 ## 🧩 Tech Stack
 
 ### 🎨 Frontend
@@ -35,14 +45,7 @@ Welcome to the VamDash2.0, a full‑stack web application designed to visualize 
 
 ---
 
-## 🖼️ Screenshot
-Here’s a peek at the dashboard interface 👇  
 
-![Dashboard Screenshot](./screenshots/dash.png)
-
-*(Stored in `screenshots/dash.png` directory)*
-
----
 
 ## 🧭 Roadmap
 - 🧑‍💻 Add authentication & user sessions  
